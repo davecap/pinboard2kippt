@@ -1,0 +1,4 @@
+-e git://github.com/mgan59/python-pinboard.git@79b2b9b5547990e68924258c090f2f9bdd1aa608#egg=Python_Pinboard-dev
+kippt==1.0.2
+requests==1.0.4
+wsgiref==0.1.2
