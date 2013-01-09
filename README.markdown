@@ -15,5 +15,5 @@ Pinboard2Kippt transfers your Pinboard bookmarks to Kippt.
     from pinboard2kippt import Pinboard2Kippt
 
     i = Pinboard2Kippt(pinboard_user=USER, pinboard_pass=PASS,
-                       kippt_user=USER, kippt_pass=PASS)
+                       kippt_user=USER, kippt_api_key=PASS)
     i.transfer()
